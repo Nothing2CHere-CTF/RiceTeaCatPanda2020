@@ -137,7 +137,7 @@ I found that there were a total of 42 unique words in the [text](uniq.txt) which
 
 The 31st line of the chat text was: "rtcp:th15_1z_a_c4t_ch4t_n0t_a_m3m3_ch4t"
 
-(The challenge text reads: "wait wait what the heck is going on here!!!"
+(The challenge text reads: "wait wait what the heck is going on here!!!")
 
 **Flag**
 ```
